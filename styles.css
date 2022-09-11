@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather',serif;}
+    h1{margin-top: 0;
+    font-family: 'sacramento';
+    font-size: 5.625rem;
+    color: #FFDE00;
+}
+h2{font-family: 'montserrat',sans-serif;
+    font-size: 40px;
+    
+    color: orange;}
+    h3{font-family: 'montserrat',sans-serif;
+    color: grey;}
+    
+    .first-container{background-color: #7DCE13;
+        position: relative;
+        padding-top: 100px ;
+        height: 600px;}
+
+        .nss{
+          width: 10%;  
+          position: absolute;
+          top: 10px;
+          right: 10px;
+
+        }
+
+        .gecr{
+            width: 10%;  
+          position: absolute;
+          top: 10px;
+          left: 10px;
+        }
+        .second-container{
+            background-color: #7DCE13;
+            height: 400px;
+            padding-top: 0px;
+        }
+        .food1{
+            position: absolute;
+            left: 40px;
+            float: right;
+        }
+
+        .third-container{
+            background-color: #7DCE13;
+            height: 400px;
+            padding-top: 0px;}
+
+        .food2{
+            position: absolute;
+            right: 150px;
+            top: 1200px;
+        }
+        
+        hr{
+            border-style: dotted none none ;
+            border-color: #FFDE00;
+            border-width: 5px;
+            width: 20%;
+        }
+        
+        .last-container{
+            height: 60px;
+            background-color:brown;
+
+        }
+        a{
+            background-color: green;
+        }
+
+        .who{
+            position: absolute;
+            left: 300px;
+        }
+        .instagram{
+            position: relative;
+            left: 300px;
+        }
